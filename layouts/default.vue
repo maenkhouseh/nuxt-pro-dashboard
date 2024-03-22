@@ -12,6 +12,15 @@ const links = [{
     text: 'Home',
     shortcuts: ['G', 'H']
   }
+},{
+  id: 'review',
+  label: 'Review',
+  icon: 'i-heroicons-monitor',
+  to: '/review',
+  tooltip: {
+    text: 'Review',
+    shortcuts: ['G', 'R']
+  }
 }, {
   id: 'inbox',
   label: 'Inbox',

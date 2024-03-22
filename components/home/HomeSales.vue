@@ -28,7 +28,7 @@ const sales = [{
   price: 199
 }, {
   user: {
-    name: 'Jamie Johnson',
+    name: 'Jamie JohnsonSS',
     email: 'jamie.johnson@example.com',
     avatar: {
       src: 'https://i.pravatar.cc/128?u=5'
